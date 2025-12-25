@@ -1,0 +1,41 @@
+{
+    "year": 2027,
+    "default_time": "20:00",
+    "extractions": [
+        {
+            "original_date": "2027-01-01",
+            "effective_date": "2027-01-02",
+            "time": "20:00",
+            "reason": "Capodanno",
+            "status": "provvisorio"
+        },
+        {
+            "original_date": "2027-04-25",
+            "effective_date": "2027-04-26",
+            "time": "20:00",
+            "reason": "Festa della Liberazione",
+            "status": "provvisorio"
+        },
+        {
+            "original_date": "2027-05-01",
+            "effective_date": "2027-05-03",
+            "time": "20:00",
+            "reason": "Festa dei Lavoratori",
+            "status": "provvisorio"
+        },
+        {
+            "original_date": "2027-08-15",
+            "effective_date": "2027-08-16",
+            "time": "20:00",
+            "reason": "Ferragosto",
+            "status": "provvisorio"
+        },
+        {
+            "original_date": "2027-12-25",
+            "effective_date": "2027-12-24",
+            "time": "20:00",
+            "reason": "Natale",
+            "status": "provvisorio"
+        }
+    ]
+}

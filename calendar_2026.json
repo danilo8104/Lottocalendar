@@ -1,0 +1,48 @@
+{
+    "year": 2026,
+    "default_time": "20:00",
+    "extractions": [
+        {
+            "original_date": "2026-01-01",
+            "effective_date": "2026-01-02",
+            "time": "20:00",
+            "reason": "Capodanno",
+            "status": "ufficiale"
+        },
+        {
+            "original_date": "2026-04-25",
+            "effective_date": "2026-04-27",
+            "time": "20:00",
+            "reason": "Festa della Liberazione",
+            "status": "ufficiale"
+        },
+        {
+            "original_date": "2026-05-01",
+            "effective_date": "2026-05-02",
+            "time": "20:00",
+            "reason": "Festa dei Lavoratori",
+            "status": "ufficiale"
+        },
+        {
+            "original_date": "2026-08-15",
+            "effective_date": "2026-08-17",
+            "time": "20:00",
+            "reason": "Ferragosto",
+            "status": "ufficiale"
+        },
+        {
+            "original_date": "2026-12-08",
+            "effective_date": "2026-12-09",
+            "time": "20:00",
+            "reason": "Immacolata Concezione",
+            "status": "ufficiale"
+        },
+        {
+            "original_date": "2026-12-25",
+            "effective_date": "2026-12-24",
+            "time": "20:00",
+            "reason": "Natale",
+            "status": "provvisorio"
+        }
+    ]
+}
