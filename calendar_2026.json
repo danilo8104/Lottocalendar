@@ -43,6 +43,13 @@
             "time": "20:00",
             "reason": "Natale",
             "status": "provvisorio"
+        },
+        {
+            "original_date": "2026-12-26",
+            "effective_date": null,
+            "time": null,
+            "reason": "Santo Stefano",
+            "status": "provvisorio"
         }
     ]
 }
